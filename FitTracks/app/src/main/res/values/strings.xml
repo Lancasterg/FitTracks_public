@@ -1,0 +1,86 @@
+<resources>
+    <!-- General -->
+    <string name="placeholder">Place holder</string>
+    <string name="logout">Logout</string>
+
+
+    <!-- Login/Sign up screen -->
+    <string name="app_name">FitTracks</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="retypePassword">Confirm password</string>
+    <string name="returnLogin">Return to Login</string>
+    <string name="signup">Sign up</string>
+
+
+    <!-- Calendar screen -->
+    <string name="btn_calendar">Calendar</string>
+
+    <!-- Menu strings -->
+    <string name="workout">Workout</string>
+    <string name="track">Track</string>
+    <string name="hub">Hub</string>
+
+    <!-- Create Workout View -->
+    <string name="WorkoutName">Workout name</string>
+    <string name="ExerciseName">Exercise name</string>
+    <string name="AddExercise">Add Exercise</string>
+    <string name="SaveWorkout">Save Workout</string>
+    <string name="Delete">-</string>
+    <string name="X">X</string>
+    <string name="Sets">Sets</string>
+    <string name="Reps">Reps</string>
+
+    <!--HubActivityView -->
+    <string name="createWorkout">Create workout</string>
+    <string name="Search">Search workouts</string>
+    <string name="myWorkouts">My Workouts</string>
+    <string name="browseWorkouts">Browse Workouts</string>
+    <string name="title_activity_complete_workout">CompleteWorkout</string>
+    <string name="delete">Delete</string>
+
+    <!-- CompleteWorkout -->
+    <string name="FinishWorkout">Finish Workout</string>
+    <string name="Kg">Kg</string>
+
+
+    <!-- Graph -->
+    <string name="addEvent">Add Event</string>
+    <string name="delEvent">Delete Event</string>
+
+    <!--cards -->
+    <string name="ellipsis">&#8230;</string>
+    <string name="show">Show</string>
+    <string name="hide">Hide</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="noEvent">No workouts completed today</string>
+
+
+
+        <string-array name="exercises_array">
+            <item>Bench press</item>
+            <item>Deadlift</item>
+            <item>Stiff deadlift</item>
+            <item>Squat</item>
+            <item>Bicep curl</item>
+            <item>Tricep Extension</item>
+            <item>Tricep Kickbacks</item>
+            <item>Overhead Press</item>
+            <item>Shoulder press</item>
+            <item>Dumbell press</item>
+            <item>Leg extension</item>
+            <item>Leg curl</item>
+            <item>Hammer curl</item>
+            <item>Hack squat</item>
+            <item>Front squat</item>
+            <item>Barbell curl</item>
+            <item>Skull crusher</item>
+            <item>Incline bench</item>
+        </string-array>
+
+
+
+</resources>

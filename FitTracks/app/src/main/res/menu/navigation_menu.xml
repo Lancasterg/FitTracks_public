@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Workout"
+        android:title="@string/workout"
+        android:icon="@drawable/icon_workout"/>
+    <item android:id="@+id/Hub"
+        android:title="@string/hub"
+        android:icon="@drawable/icon_home"/>
+    <item android:id="@+id/Track"
+        android:title="@string/track"
+        android:icon="@drawable/icon_track"/>
+</menu>

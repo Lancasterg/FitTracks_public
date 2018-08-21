@@ -1,0 +1,265 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginBottom="4dp"
+    card_view:cardCornerRadius="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/theWorkoutName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="16dp"
+                android:padding="16dp"
+                android:text="@string/placeholder"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textDate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="30dp"
+                android:text="@string/placeholder" />
+
+            <CheckBox
+                android:id="@+id/dropdownButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end|center"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/drop_arrow"
+                android:button="@null" />
+        </FrameLayout>
+
+        <TableLayout
+            android:id="@+id/exerciseTable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="6dp"
+            android:visibility="gone">
+
+            <TableRow>
+
+                <TextView
+                    android:padding="16dp"
+                    android:text="@string/ExerciseName" />
+
+                <TextView
+                    android:padding="16dp"
+                    android:text="@string/Sets" />
+
+                <TextView
+                    android:padding="16dp"
+                    android:text="@string/Reps" />
+
+                <TextView
+                    android:padding="16dp"
+                    android:text="@string/Kg" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/exercise0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/sets0"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/reps0"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/weight0"
+                    android:padding="16dp"
+                    android:text="@string/Kg"
+                    android:visibility="gone" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/exercise1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/sets1"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/reps1"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/weight1"
+                    android:padding="16dp"
+                    android:text="@string/Kg"
+                    android:visibility="gone" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/exercise2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/sets2"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/reps2"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/weight2"
+                    android:padding="16dp"
+                    android:text="@string/Kg"
+                    android:visibility="gone" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/exercise3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/sets3"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/reps3"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/weight3"
+                    android:padding="16dp"
+                    android:text="@string/Kg"
+                    android:visibility="gone" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/exercise4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/sets4"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/reps4"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/weight4"
+                    android:padding="16dp"
+                    android:text="@string/Kg"
+                    android:visibility="gone" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/exercise5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/sets5"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/reps5"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/weight5"
+                    android:padding="16dp"
+                    android:text="@string/Kg"
+                    android:visibility="gone" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/exercise6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:textSize="12sp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/sets6"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/reps6"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/weight6"
+                    android:padding="16dp"
+                    android:text="@string/Kg"
+                    android:visibility="gone" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+
+</android.support.v7.widget.CardView>

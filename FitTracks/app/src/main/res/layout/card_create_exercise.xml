@@ -1,0 +1,50 @@
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/card_view"
+    android:layout_gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    card_view:cardCornerRadius="4dp"
+    android:layout_marginBottom="10dp"
+    card_view:layout_goneMarginBottom="10dp">
+
+    <LinearLayout
+        android:id="@+id/exerciseAppend"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:padding="12dp"
+        android:inputType="textCapSentences">
+
+        <AutoCompleteTextView
+            android:id="@+id/exerciseName"
+            android:hint="@string/ExerciseName"
+            android:layout_width="125dp"
+            android:layout_height="match_parent"
+            android:gravity="start"
+            android:textSize="14sp"
+            android:inputType="textCapSentences"
+            android:textAlignment="textStart"/>
+
+        <Spinner
+            android:layout_width="90dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:background="@null"/>
+
+        <Spinner
+            android:layout_width="90dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:hint="@string/Reps"
+            android:textSize="16sp"
+            android:background="@null"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:background="@drawable/del_exercise" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

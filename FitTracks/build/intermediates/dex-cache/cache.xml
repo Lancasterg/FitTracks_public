@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\412da938fb65902bce3f0ad4b9c8e3c43eed832a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b0ae7bfe4591746f6491a4a270ee56712062d1ca">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f18bf8dd96c69910cd0a992fc10dfa61d0ac5a73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\9cf2ce8831b37041930ff221c8fc959da81c1681\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18c54f48086f68b495236297e50a5aa117309001\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_2ab5e5328aaaca12801d43e16255d199afb4f1ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.gradle\caches\modules-2\files-2.1\com.darwinsys\hirondelle-date4j\1.5.1\7b52de513f87ae4d9ff5d17518def0a1e9bc3df0\hirondelle-date4j-1.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b52de513f87ae4d9ff5d17518def0a1e9bc3df0">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\hirondelle-date4j-1.5.1_dbd1757439ddf1afe4d00cf915216f755182915c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\3549d2e0156b484797977b8e73be26890a3138e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a02bdd9949d2644cb39c5f5d5dbebb6d6afbb6cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\2f8a61143e4b9831f9c30cff7a97b0091420f697\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8753fe81e8690e63f95fdcc9e53c9ed88ca1b73c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\72b21f7da5c40ec0e26080eb42f86dc3e06ee7e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="225f093d9a041f8206d812d3055a886a816ac365">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01110f5ffd9213a0376da6efd3b9c5c682970c0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\4abb5020c17d71f36c2815f238e9c1a65ff6c3e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9dc052d4d36b53c3a1bb2d5bf634fcac5d35037">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_427845d29af1c054083fd0a9a0e3ae3921ad758b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\69e8b991e0b0ccfa7a8e61893db55e9543b6e1f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7600691f1196e1fb4b4741c3d1d75ea1a9731c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3798d17bda34d4a504ee50baf2e583d14975c3a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\92d317a7932be8bc983e20f21bc978a7db7c7e9d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fea01abd91186a7148aaaf8c517b823eedaac79a">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5265f96d2d5b53536f04b12180ce58640603ed0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\641722605a64a45627734fdca53764795d1a3f99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fd6ae8c61bd548b134265ef3c37807d4efcc854c">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2554ae55f564015116c62aa71f459221238b1bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\4ad386c1b486af90eb8071bf46e4a1297ef1a497\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc222c6643302680dd693b16ca1d97582c3a293b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\e50f2a9255d3302d3ad14b130520476ec22ecfae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="108c3cdbdb89a05d388a170bd3549b1e43ad6d54">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c76cfb678493cf09edb7266695fefc575a05d8f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\50950853499aa9c173f2bfe2e505849b5399c13a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0264d5b6bcca69c22934708bf3ce45b491199136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\173d91cca8e5f2cd88f0f74ada23e15b9c5593b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2fafb68cd59180bbcdc7b0d8dfe1c0c26b49a42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\a75c75493753cc233a942e22718b3bd5f5725441\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1eb02c1033c29e736e558db646bbf0d522fecb53">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85a4284a12eeeb85e9dee2c7885e50d46370bd7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\186e88f81d401683fea79fea27e623290a27fee3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fc2c6e0c8ddf2a1f6dd08174898ea707998e432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\ee060a27f3d3a27011d8968aea90afe54d52b83a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a0b869be21f2e39e9b337bec395d9a7e111da21e">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9832561210fa56d36175fa94cc7cf089d624ef16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\d76773d588b9db32cc7089bb580a12965620d2e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2713d850afda529eb32b9fc54f5360f41edb5f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\4f35b681e46fd5dea3742c27255aa1caadcd7380\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bb4c6e44048f73eb66774da494f259b7d9863cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\6a0be946016d6f05f759f435637141e390747681\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="64adc9f1351d7d04b236dca2e7b980a486bdacb5">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_647bb7598c196d055abf59db59e1e019dd3d5fbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\f3b74f18bc2e1c68c50395401481935ddc61b5a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8a5ae3d8ae519696b8974780c5a163247db090a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\0c2bb7272e517dc4a723a4503478083dff590c99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_274ffbb8f1c4bd99a5d3803f731a7a4a37ac94ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\b3bf5691c382f498a9ba267afc7dbde5639d6810\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19e55bee106350a20251b6aa7bd30fa5e25c36c8">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_318d0f7e18f790cae1915f5a314b8a56d924327e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\GitHub\FitTracks\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1adf1b69fa8734de8678575e85d215fdcb1aba3c">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2bc90686b5cb75400ef83c77d3d038aec588e64c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\38468056baad3ef4725f3cf1ef2ba6647f7daa42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ff0abce16ca62e138c700a85b83e7da09f3444b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\12bbdc8fa95effde485a4a064975e907a02cbabd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddc2c5613bd096275fb5bfaefd0a4c5a06366b1b">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a20c9442e476bcc2d88c29f45f3d868fbab7755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\GitHub\FitTracks\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5790a93e641de054d3ff0764a02b2d72a5cf7860\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\beb789cbb66ac4243626b1d5517c0551adec3400\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7b1a23cecd2855bdfbd8266650d140e9e6977c">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a21a3fcf109638316653eca28bff1b9919fbc959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\edcc79cc61bf77d3776012e1be5dea8a46a3ebe4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b09006b74a6b6ad5d696af2d85db540f7723521e">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_168093c1c88c7505d6243d278435bcc17b052487\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\9ac683c15aa5bbd14ffab2d2f5692d0ad33bac0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d73944427b215a034d145a6dde1a49b62dac9796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\05c12107ae33165fe9d807581d598117c7630f3a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da638710a978b74010b524e659c88400c2fb6fd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\cdfcaa4ed9b581919a6fbd538733c98ae97e54b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3810dd933166e9c76b2d192ee18d5699e9701bb4">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01a5be1c720fddd5a83d540903d9fe80f7ebfd6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\George\.android\build-cache\f7d47436af3d2441ea613fb539542233caa6ad2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ab379ccbc45dadc6843cf258d9e741075758dd5">
+        <dex dex="C:\GitHub\FitTracks\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd9460b6eb5d16f3628ea98a08e2b485fb57c246\classes.dex" />
+    </item>
+
+</items>
